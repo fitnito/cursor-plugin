@@ -1,0 +1,18 @@
+{
+  "name": "fitnito",
+  "owner": {
+    "name": "Wemble Development Corporation",
+    "email": "info@fitnito.com"
+  },
+  "metadata": {
+    "description": "The Fitnito plugin for Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fitnito",
+      "source": "plugins/fitnito",
+      "description": "Schedule, members, and bookings for independent gyms and studios, from chat."
+    }
+  ]
+}
